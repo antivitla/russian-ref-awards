@@ -1,6 +1,6 @@
 {
   "name": "@russian-ref/awards",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Государственные награды Российской Федерации",
   "main": "awards.js",
   "type": "module",
