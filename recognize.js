@@ -11,7 +11,7 @@ Object.values(awards).forEach((award, index, list) => {
   }
 });
 
-export default function (text) {
+export default function recognize(text) {
   const recognized = [];
   sortedByOrderMedal.reduce((str, award) => {
     if (str.match(award.regexp)) {
